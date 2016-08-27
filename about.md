@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+ This blog is a great way to see if OOP would be a good class for you. 
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
