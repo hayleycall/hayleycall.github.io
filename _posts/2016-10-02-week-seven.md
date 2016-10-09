@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 6 in OOP
+title: Week 7 in OOP
 ---
 
 ### What did you do this past week?
